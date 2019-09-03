@@ -1,4 +1,4 @@
-# toxicbot69
+# toxicbot
 its a toxic bot
 
 summoned by "!toxic"
